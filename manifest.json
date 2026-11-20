@@ -27,27 +27,26 @@
       "purpose": "any"
     }
   ],
-  "screenshots": [
+    "screenshots": [
     {
       "src": "/Orador-Pro/screenshots/tela1.png",
-      "sizes": "1080x1920",
+      "sizes": "417x673",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "Teleprompter"
     },
     {
       "src": "/Orador-Pro/screenshots/tela2.png",
-      "sizes": "1080x1920",
+      "sizes": "400x653",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "Estúdio de gravação"
     },
     {
       "src": "/Orador-Pro/screenshots/tela3.png",
-      "sizes": "1080x1920",
+      "sizes": "407x655",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "Assistente de roteiros"
     }
   ]
-}
