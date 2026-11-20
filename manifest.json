@@ -27,7 +27,7 @@
       "purpose": "any"
     }
   ],
-    "screenshots": [
+  "screenshots": [
     {
       "src": "/Orador-Pro/screenshots/tela1.png",
       "sizes": "417x673",
@@ -50,3 +50,4 @@
       "label": "Assistente de roteiros"
     }
   ]
+}
